@@ -17,29 +17,6 @@ Natural Interaction: Engages in meaningful conversations using the AIML module f
 Installation
 To set up ENIAC on your own Raspberry Pi, follow these steps:
 
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/ENIAC.git
-cd ENIAC
-Install Dependencies:
-Ensure you have Python 3 installed. Then, install the required Python packages:
-
-bash
-Copy code
-pip install -r requirements.txt
-Setup Raspberry Pi:
-
-Ensure your Raspberry Pi is running Raspberry Pi OS.
-Configure your microphone and speaker.
-Run the Application:
-
-bash
-Copy code
-python main.py
-Usage
-After running the application, ENIAC will start listening for voice commands. You can interact with the robot by speaking commands and receive responses in audio form. The robot can perform various tasks and engage in conversations based on its programming.
 
 Contributing
 We welcome contributions from the community! If you have suggestions, improvements, or bug fixes, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
